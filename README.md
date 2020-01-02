@@ -2,7 +2,7 @@
 ![GitHub license](https://img.shields.io/github/license/hero3131/RED.svg)
 
 # For my BIG family Team Open Minds <3
-collect all the conis to receive your "HAPPY NEW YEAR" message
+collect all the coins to receive your "HAPPY NEW YEAR" message
 
 # Tutorial:
 use the keyboard arrows to move RIGHT and LEFT, press the spacebar to JUMP
