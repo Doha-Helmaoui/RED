@@ -1,7 +1,7 @@
 # RED
 ![GitHub license](https://img.shields.io/github/license/hero3131/RED.svg)
 
-# For my BIG family Team Open Mind <3
+# For my BIG family Team Open Minds <3
 collect all the conis to receive your "HAPPY NEW YEAR" message
 
 # Tutorial:
