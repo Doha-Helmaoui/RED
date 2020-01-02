@@ -8,7 +8,7 @@ collect all the coins to receive your "HAPPY NEW YEAR" message
 use the keyboard arrows to move RIGHT and LEFT, press the spacebar to JUMP
 
 ## Screenshot:
-<img src="screenshot\RED screenshot.png" />
+<img src="screenshot\REDscreenshot.PNG" />
 
 ## Game logic:
 coin++
